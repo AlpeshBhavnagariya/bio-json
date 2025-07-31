@@ -1,0 +1,32 @@
+{
+  "version": "6.0.0",
+  "objects": [
+    {
+      "type": "rect",
+      "version": "6.0.0",
+      "left": 100,
+      "top": 100,
+      "width": 150,
+      "height": 100,
+      "fill": "red",
+      "angle": 15
+    },
+    {
+      "type": "circle",
+      "version": "6.0.0",
+      "left": 300,
+      "top": 150,
+      "radius": 50,
+      "fill": "blue"
+    },
+    {
+      "type": "text",
+      "version": "6.0.0",
+      "left": 200,
+      "top": 300,
+      "text": "Hello, Fabric.js!",
+      "fontSize": 24,
+      "fill": "green"
+    }
+  ]
+}
